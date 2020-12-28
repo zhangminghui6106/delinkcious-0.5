@@ -4,8 +4,8 @@ import (
 	"context"
 	"errors"
 	"github.com/go-kit/kit/endpoint"
-	"github.com/the-gigi/delinkcious/pb/news_service/pb"
-	om "github.com/the-gigi/delinkcious/pkg/object_model"
+	"github.com/zhangminghui6106/delinkcious/pb/news_service/pb"
+	om "github.com/zhangminghui6106/delinkcious/pkg/object_model"
 	"time"
 )
 

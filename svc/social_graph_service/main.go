@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/the-gigi/delinkcious/svc/social_graph_service/service"
+	"github.com/zhangminghui6106/delinkcious-0.5/svc/social_graph_service/service"
 )
 
 func main() {

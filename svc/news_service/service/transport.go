@@ -5,8 +5,8 @@ import (
 	"github.com/go-kit/kit/endpoint"
 	grpctransport "github.com/go-kit/kit/transport/grpc"
 	"github.com/golang/protobuf/ptypes/timestamp"
-	"github.com/the-gigi/delinkcious/pb/news_service/pb"
-	om "github.com/the-gigi/delinkcious/pkg/object_model"
+	"github.com/zhangminghui6106/delinkcious-0.5/pb/news_service/pb"
+	om "github.com/zhangminghui6106/delinkcious-0.5/pkg/object_model"
 )
 
 func newEvent(e *om.Event) (event *pb.Event) {

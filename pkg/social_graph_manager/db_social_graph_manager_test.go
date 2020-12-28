@@ -4,8 +4,8 @@ import (
 	sq "github.com/Masterminds/squirrel"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	"github.com/the-gigi/delinkcious/pkg/db_util"
-	om "github.com/the-gigi/delinkcious/pkg/object_model"
+	"github.com/zhangminghui6106/delinkcious-0.5/pkg/db_util"
+	om "github.com/zhangminghui6106/delinkcious-0.5/pkg/object_model"
 )
 
 var _ = Describe("social graph manager tests with DB", func() {
