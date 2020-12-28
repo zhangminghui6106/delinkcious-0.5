@@ -4,7 +4,7 @@ import (
 	"github.com/nats-io/go-nats"
 	"log"
 
-	om "github.com/zhangminghui6106/delinkcious/pkg/object_model"
+	om "github.com/zhangminghui6106/delinkcious-0.5/pkg/object_model"
 )
 
 type eventSender struct {

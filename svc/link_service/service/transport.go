@@ -4,7 +4,7 @@ import (
 	"context"
 	"encoding/json"
 	"github.com/go-kit/kit/endpoint"
-	om "github.com/zhangminghui6106/delinkcious/pkg/object_model"
+	om "github.com/zhangminghui6106/delinkcious-0.5/pkg/object_model"
 	"net/http"
 	"time"
 )

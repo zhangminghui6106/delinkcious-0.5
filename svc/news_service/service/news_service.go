@@ -2,8 +2,8 @@ package service
 
 import (
 	"fmt"
-	"github.com/zhangminghui6106/delinkcious/pb/news_service/pb"
-	nm "github.com/zhangminghui6106/delinkcious/pkg/news_manager"
+	"github.com/zhangminghui6106/delinkcious-0.5/pb/news_service/pb"
+	nm "github.com/zhangminghui6106/delinkcious-0.5/pkg/news_manager"
 	"google.golang.org/grpc"
 	"log"
 	"net"

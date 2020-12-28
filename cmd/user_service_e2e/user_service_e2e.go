@@ -3,10 +3,10 @@ package main
 import (
 	"context"
 	_ "github.com/lib/pq"
-	"github.com/zhangminghui6106/delinkcious/pkg/db_util"
-	om "github.com/zhangminghui6106/delinkcious/pkg/object_model"
-	. "github.com/zhangminghui6106/delinkcious/pkg/test_util"
-	"github.com/zhangminghui6106/delinkcious/pkg/user_client"
+	"github.com/zhangminghui6106/delinkcious-0.5/pkg/db_util"
+	om "github.com/zhangminghui6106/delinkcious-0.5/pkg/object_model"
+	. "github.com/zhangminghui6106/delinkcious-0.5/pkg/test_util"
+	"github.com/zhangminghui6106/delinkcious-0.5/pkg/user_client"
 	"log"
 )
 
